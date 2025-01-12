@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DefaultImplementationDemo/Stash/stash.txt
+/DefaultImplementationDemo/Stash/stash1.txt
